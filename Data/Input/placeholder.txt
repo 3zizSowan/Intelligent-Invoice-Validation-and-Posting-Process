@@ -1,0 +1,30 @@
+Invoice
+Vendor Name: BrightLine IT
+Vendor id: V007
+BILLED TO:
+Maestro Dynamics Inc.
+1 Innovation Plaza, Business District, London, UK
+INVOICE DETAILS:
+Invoice # INV-2025-1002
+Date of Issue 2025-11-09
+Due Date 2026-01-11
+
+ITEM/SERVICE DESCRIPTION           QTY/HOURS      RATE    AMOUNT
+
+Prototype Parts Prototype Parts - standard 3 429.86 $ 1,289.58 $
+rate
+
+Testing Lab Testing Lab Hours - 19 1,753.97 $ 33,325.43 $
+Hours standard rate
+
+Consultation Consultation - standard 11 433.13 $ 4,764.43 $
+rate
+
+Materials Materials - standard rate 16 797.31 $ 12,756.96 $
+
+Description Subtotal 52,136.40 $
+R&D services and items Discount 0.00
+Tax Rate 15%
+Tax 7,820.46 $
+
+TOTAL $ 59,956.86
